@@ -11,5 +11,5 @@ header{background-color: #ce25c0;}
 .cabeçalho{
    
     background-color: #FFFFFF;
-    display: flex;
+    display: inline;
 }
